@@ -31,15 +31,15 @@ Prove the **annual Owl Festival at Olivas Adobe** boosts:
 
 ## Files
 
-![Dashboard Screenshot](dashboard_graph1)
+![Dashboard Screenshot](images/dashboard_graph1)
 Happiness Spike
 
-![Dashboard Screenshot](dashboard_graph2)
+![Dashboard Screenshot](images/dashboard_graph2)
 Locals and Visitor spending with economic boosts
 
-![Dashboard Screenshot](dashboard_graph3)
+![Dashboard Screenshot](images/dashboard_graph3)
 Correlation scatterplot
-- 
+
 
 
 ![owl image](owl.png)
