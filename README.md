@@ -30,8 +30,15 @@ Prove the **annual Owl Festival at Olivas Adobe** boosts:
 ---
 
 ## Files
-[Dashboard screenshot](images/Dashboard_graph1)
+![Dashboard screenshot](images/Dashboard_graph1)
 - Screenshot Happiness Index April Spike
+
+![Dashboard screenshot2](images/Dashboard_graph2.png)
+- Economic Boost stacked bar chart
+
+![Dashboard screenshot3](images/Dashboard_graph3.png)
+- Correlation scatterplot
+
 
 ![owl png](images/owl.png)
 - Custom shape used for graph marks/shapes
