@@ -35,7 +35,7 @@ Prove the **annual Owl Festival at Olivas Adobe** boosts:
 - 
 - `index.html` – Live embedded viz
 - 
-![owl image](images/owl.png) – Custom shape
+![owl image](owl.png)
 
 ---
 
