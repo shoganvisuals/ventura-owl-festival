@@ -30,10 +30,12 @@ Prove the **annual Owl Festival at Olivas Adobe** boosts:
 ---
 
 ## Files
-- `data/owl_festival_data.csv` – Monthly happiness & spend
+
 - `screenshots/` – Dashboard visuals
+- 
 - `index.html` – Live embedded viz
-- `owl_icon.png` – Custom shape
+- 
+![owl image](images/owl.png) – Custom shape
 
 ---
 
