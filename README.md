@@ -31,18 +31,17 @@ Prove the **annual Owl Festival at Olivas Adobe** boosts:
 
 ## Files
 
-![Dashboard Screenshot1](https://raw.githubusercontent.com/shoganvisuals/ventura-owl-festival/main/images/Dashboard1.png)
+![Dashboard Screenshot1](images/Dashboard1.png)
 - Happiness Spike in April
 
-![Dashboard Screenshot](https://raw.githubusercontent.com/shoganvisuals/ventura-owl-festival/main/images/Dashboard2.png)
+![Dashboard Screenshot](images/Dashboard2.png)
 - Locals and Visitor spending with economic boosts
 
-![Dashboard Screenshot](https://raw.githubusercontent.com/shoganvisuals/ventura-owl-festival/main/images/Dashboard3.png)
+![Dashboard Screenshot](images/Dashboard3.png)
 - Correlation scatterplot: Happiness does correlate with economic boosts.
 
 
-
-![owl image](https://raw.githubusercontent.com/shoganvisuals/ventura-owl-festival/main/images/owl.png))
+![owl image](images/owl.png))
 - Image used for graph and scatterplot marks
 
 ---
